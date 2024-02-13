@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\bin\Debug\net6.0\TasksVSThreads.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\bin\Debug\net6.0\TasksVSThreads.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\bin\Debug\net6.0\TasksVSThreads.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\bin\Debug\net6.0\TasksVSThreads.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\bin\Debug\net6.0\TasksVSThreads.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\refint\TasksVSThreads.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\TasksVSThreads.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksVSThreads\obj\Debug\net6.0\ref\TasksVSThreads.dll

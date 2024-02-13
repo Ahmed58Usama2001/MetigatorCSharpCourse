@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\bin\Debug\net6.0\OperatorOverloading.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\refint\OperatorOverloading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\OperatorOverloading.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\OperatorOverloading\OperatorOverloading\obj\Debug\net6.0\ref\OperatorOverloading.dll

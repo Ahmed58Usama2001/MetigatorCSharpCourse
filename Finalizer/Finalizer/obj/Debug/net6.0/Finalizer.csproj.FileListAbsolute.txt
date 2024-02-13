@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\bin\Debug\net6.0\Finalizer.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\bin\Debug\net6.0\Finalizer.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\bin\Debug\net6.0\Finalizer.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\bin\Debug\net6.0\Finalizer.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\bin\Debug\net6.0\Finalizer.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\refint\Finalizer.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\Finalizer.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Finalizer\Finalizer\obj\Debug\net6.0\ref\Finalizer.dll

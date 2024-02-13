@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\bin\Debug\net6.0\TasksReturnsValue.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\bin\Debug\net6.0\TasksReturnsValue.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\bin\Debug\net6.0\TasksReturnsValue.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\bin\Debug\net6.0\TasksReturnsValue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\bin\Debug\net6.0\TasksReturnsValue.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\refint\TasksReturnsValue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\TasksReturnsValue.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\AsynchronusProgrammingC#\TasksReturnsValue\obj\Debug\net6.0\ref\TasksReturnsValue.dll

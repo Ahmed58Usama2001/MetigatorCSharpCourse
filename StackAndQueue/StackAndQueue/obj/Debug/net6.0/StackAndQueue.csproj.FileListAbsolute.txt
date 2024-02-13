@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\bin\Debug\net6.0\StackAndQueue.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\refint\StackAndQueue.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\StackAndQueue.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\StackAndQueue\StackAndQueue\obj\Debug\net6.0\ref\StackAndQueue.dll

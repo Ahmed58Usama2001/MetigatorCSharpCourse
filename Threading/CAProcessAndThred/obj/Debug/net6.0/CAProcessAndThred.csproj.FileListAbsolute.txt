@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\bin\Debug\net6.0\CAProcessAndThred.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\bin\Debug\net6.0\CAProcessAndThred.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\bin\Debug\net6.0\CAProcessAndThred.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\bin\Debug\net6.0\CAProcessAndThred.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\bin\Debug\net6.0\CAProcessAndThred.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\refint\CAProcessAndThred.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\CAProcessAndThred.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAProcessAndThred\obj\Debug\net6.0\ref\CAProcessAndThred.dll

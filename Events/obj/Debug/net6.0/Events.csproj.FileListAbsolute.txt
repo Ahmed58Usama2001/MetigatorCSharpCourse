@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\1. CSharp\Events\bin\Debug\net6.0\Events.exe
+F:\Self Study\.Net Track Self\1. CSharp\Events\bin\Debug\net6.0\Events.deps.json
+F:\Self Study\.Net Track Self\1. CSharp\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+F:\Self Study\.Net Track Self\1. CSharp\Events\bin\Debug\net6.0\Events.dll
+F:\Self Study\.Net Track Self\1. CSharp\Events\bin\Debug\net6.0\Events.pdb
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.dll
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\refint\Events.dll
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.pdb
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\1. CSharp\Events\obj\Debug\net6.0\ref\Events.dll

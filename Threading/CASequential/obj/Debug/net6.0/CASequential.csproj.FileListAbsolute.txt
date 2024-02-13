@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\bin\Debug\net6.0\CASequential.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\bin\Debug\net6.0\CASequential.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\bin\Debug\net6.0\CASequential.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\bin\Debug\net6.0\CASequential.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\bin\Debug\net6.0\CASequential.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\refint\CASequential.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\CASequential.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CASequential\obj\Debug\net6.0\ref\CASequential.dll

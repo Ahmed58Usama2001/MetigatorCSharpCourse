@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\bin\Debug\net6.0\LinkedListHashSetSortedSet.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\bin\Debug\net6.0\LinkedListHashSetSortedSet.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\bin\Debug\net6.0\LinkedListHashSetSortedSet.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\bin\Debug\net6.0\LinkedListHashSetSortedSet.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\bin\Debug\net6.0\LinkedListHashSetSortedSet.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\refint\LinkedListHashSetSortedSet.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\LinkedListHashSetSortedSet.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\LinkedListHashSetSortedSet\LinkedListHashSetSortedSet\obj\Debug\net6.0\ref\LinkedListHashSetSortedSet.dll

@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\bin\Debug\net6.0\Enumerators Iterators.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\bin\Debug\net6.0\Enumerators Iterators.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\bin\Debug\net6.0\Enumerators Iterators.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\bin\Debug\net6.0\Enumerators Iterators.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\bin\Debug\net6.0\Enumerators Iterators.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\refint\Enumerators Iterators.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\Enumerators Iterators.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Enumerators Iterators\Enumerators Iterators\obj\Debug\net6.0\ref\Enumerators Iterators.dll

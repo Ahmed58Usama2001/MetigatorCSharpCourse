@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\bin\Debug\net6.0\CARaceCondition.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\bin\Debug\net6.0\CARaceCondition.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\bin\Debug\net6.0\CARaceCondition.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\bin\Debug\net6.0\CARaceCondition.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\bin\Debug\net6.0\CARaceCondition.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\refint\CARaceCondition.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\CARaceCondition.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CARaceCondition\obj\Debug\net6.0\ref\CARaceCondition.dll

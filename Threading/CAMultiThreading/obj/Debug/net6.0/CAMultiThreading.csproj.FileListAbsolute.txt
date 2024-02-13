@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\bin\Debug\net6.0\CAMultiThreading.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\bin\Debug\net6.0\CAMultiThreading.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\bin\Debug\net6.0\CAMultiThreading.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\bin\Debug\net6.0\CAMultiThreading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\bin\Debug\net6.0\CAMultiThreading.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\refint\CAMultiThreading.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\CAMultiThreading.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAMultiThreading\obj\Debug\net6.0\ref\CAMultiThreading.dll

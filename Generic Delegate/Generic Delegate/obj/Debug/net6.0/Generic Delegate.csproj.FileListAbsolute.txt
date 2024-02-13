@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\bin\Debug\net6.0\Generic Delegate.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\bin\Debug\net6.0\Generic Delegate.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\bin\Debug\net6.0\Generic Delegate.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\bin\Debug\net6.0\Generic Delegate.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\bin\Debug\net6.0\Generic Delegate.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\refint\Generic Delegate.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\Generic Delegate.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Generic Delegate\Generic Delegate\obj\Debug\net6.0\ref\Generic Delegate.dll

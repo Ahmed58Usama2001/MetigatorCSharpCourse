@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\bin\Debug\net8.0\Indexers.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\bin\Debug\net8.0\Indexers.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\bin\Debug\net8.0\Indexers.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\bin\Debug\net8.0\Indexers.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Indexers\Indexers\obj\Debug\net8.0\ref\Indexers.dll

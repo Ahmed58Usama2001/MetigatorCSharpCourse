@@ -1,0 +1,14 @@
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\bin\Debug\net6.0\CAThreadPool.exe
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\bin\Debug\net6.0\CAThreadPool.deps.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\bin\Debug\net6.0\CAThreadPool.runtimeconfig.json
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\bin\Debug\net6.0\CAThreadPool.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\bin\Debug\net6.0\CAThreadPool.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.AssemblyInfoInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.AssemblyInfo.cs
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.csproj.CoreCompileInputs.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\refint\CAThreadPool.dll
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.pdb
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\CAThreadPool.genruntimeconfig.cache
+F:\Self Study\.Net Track Self\Metigator CSharp\Threading\CAThreadPoo\obj\Debug\net6.0\ref\CAThreadPool.dll
